@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-Middleton
 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning R, Java/JavaScript, C, HTML and CSS.
 
 - 📫 How to reach me:
 - Email: ryanmiddleton04@gmail.com
